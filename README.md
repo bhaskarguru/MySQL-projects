@@ -1,2 +1,2 @@
 # MySQL-projects
-Analysis of data clone of a real world application instagram.
+Analysis of data of clone of a real world application instagram.
